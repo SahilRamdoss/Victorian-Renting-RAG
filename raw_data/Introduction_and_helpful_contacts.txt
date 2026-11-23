@@ -1,0 +1,337 @@
+
+<!DOCTYPE HTML>
+
+<html class="no-js" lang="en">
+<head><meta charset="utf-8"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<!-- Google Tag Manager Data Layer -->
+
+<!-- End Google Tag Manager Data Layer -->
+<!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Consumer Affairs Victoria, Victorian Government" name="DCTERMS.creator"/>
+<meta content="Introduction and helpful contacts" name="DCTERMS.title"/>
+<meta content="2026-6-29" name="DCTERMS.modified"/>
+<meta content="Introduction and helpful contacts for renting issues" name="DCTERMS.description"/>
+<meta content="Renting" name="DCTERMS.subject"/>
+<meta content="guide, guidebook, handbook, booklet, pamphlet, brochure, tenant, renter, landlord, Victoria, signing, tenancy, agreement, bond, rent, increases, eviction, notice, ending, lease, rental, property, renters guide, pets, mould, bond, red book, renting, guide, guidebook, handbook, booklet, pamphlet, brochure, tenant, renter, landlord, Victoria, signing, tenancy, agreement, bond, rent, increases, eviction, notice, ending, lease, rental, property, renting guide, renters guide, rental guide, rental housing guide, residential tenancy guide, red book, tenant guide, tenancy guide, tenancy handbook, renting a home, renting a house, digital, electronic, download, landlord guide, rent guide, how to rent, Victoria, Melbourne" name="Keywords"/>
+<meta content="Annual Report Content Page" name="ContentType"/>
+<meta content="Introduction and helpful contacts for renting issues" name="Description"/>
+<meta content="noindex" name="robots"/>
+<meta content="Introduction and helpful contacts" property="og:title"/>
+<meta content="website" property="og:type"/>
+<meta content="https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/introduction-and-helpful-contacts" property="og:url"/>
+<meta content="Introduction and helpful contacts for renting issues" property="og:description"/>
+<meta content="{4058FEB6-5292-45B8-8D1B-CF6F9F7511BC}" name="pageGuid"/>
+<link href="/css/styles.min.css" rel="stylesheet"/>
+<title>
+
+	Introduction and helpful contacts - Consumer Affairs Victoria
+
+</title><link href="/media/icons/favicon.ico" rel="shortcut icon"/>
+
+
+
+<!--<script type="text/javascript" src="/scams_quiz/js/scams_quiz_utils.js"></script>-->
+
+
+
+<link crossorigin="" href="/css/decision_support_tool.css" rel="stylesheet"/>
+
+<!-- Visitor Identification Start -->
+<!-- Visitor Identification End -->
+</head>
+<body id="bMainBody">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-5BWZBTR" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<form action="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/introduction-and-helpful-contacts" id="Form1" method="post">
+<div class="aspNetHidden">
+<input id="__VIEWSTATE" name="__VIEWSTATE" type="hidden" value="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"/>
+</div>
+<div class="aspNetHidden">
+<input id="__VIEWSTATEGENERATOR" name="__VIEWSTATEGENERATOR" type="hidden" value="CE2FB876"/>
+<input id="__EVENTVALIDATION" name="__EVENTVALIDATION" type="hidden" value="tCKZRK8xLgIq5l8RmI4nGf6xyF+VrqO2mHAXezR/5MxmO3aIXhJL5M9QI+2DPavzYWUVQKn1mztV37bJZdMI9ao/1eCMK9VIBQ7/4hgjxqQZggEqA+H+OQKI/BMNiuzv6Mg2MawFdD1puR7YeXXXqw=="/>
+</div>
+<div id="skip-links">
+<a href="#main-content">Skip to content</a>
+<a href="#main-navigation-toggle">Skip to main navigation</a>
+<a href="#footer">Skip to footer</a>
+</div>
+<div class="site-holder">
+<div class="global-navigation">
+<div class="global-navigation-header">
+<a class="btn-back" data-track-data="" data-track-group="" data-track-label="Back" data-track-type="" href="/">Back</a>
+</div>
+
+</div>
+<div class="main-site">
+
+<main id="main-content">
+
+<article class="content-page">
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+<h1 class="heading main">
+
+			Introduction and helpful contacts
+
+		</h1>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<a class="sr-only sr-only-focusable" href="#skip-share">Skip listen and sharing tools</a>
+<div class="user-toolbar">
+<div aria-label="Listen to this page" class="page-listen-tool">
+<div class="rs_skip rsbtn rs_preserve" id="readspeaker_button1">
+<a accesskey="L" class="rsbtn_play" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=9189&amp;lang=en_au&amp;readid=GeneralBodyContent&amp;url=https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2fintroduction-and-helpful-contacts" rel="nofollow" title="Listen to this page using ReadSpeaker">
+<span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+<span class="rsbtn_right rsimg rsplay rspart"></span>
+</a>
+</div>
+</div>
+<aside aria-describedby="share-title" class="share-list" id="page_content_1_before_content_0_shareList">
+<h2 class="heading share-title" id="share-title">Share<span> this page</span></h2>
+<ul class="share-list-wrap">
+<li id="page_content_1_before_content_0_liPrint"><a class="icon-left icon-print-sm-grey" data-track-group="Share this page" data-track-label="Print" data-track-type="link-print" href="javascript:window.print()">Print</a></li>
+<li id="page_content_1_before_content_0_liEmail"><a class="icon-email-sm-grey" data-track-group="Share this page" data-track-label="Email" data-track-type="link-email" href="mailto:?subject=Introduction%20and%20helpful%20contacts%20-%20Consumer%20Affairs%20Victoria&amp;body=URL: https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2fintroduction-and-helpful-contacts">Email</a></li>
+<li id="page_content_1_before_content_0_liFacebook"><a class="icon-facebook-sm-grey facebook-share" data-track-group="Share this page" data-track-label="Facebook" data-track-type="link-social-share" href="http://www.facebook.com/share.php?u=https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2fintroduction-and-helpful-contacts&amp;title=Introduction+and+helpful+contacts" target="_blank">Facebook</a></li>
+</ul>
+</aside>
+</div>
+<a id="skip-share" name="skip-share"></a>
+<section id="GeneralBodyContent">
+<div class="content rte-content">
+<p>Rental providers (landlords) and agents must give renters this guide on or before the day they move in. You can read more about renting guides at�<a href="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/resources-and-guides-overview">Resources and guides overview</a>.</p>
+<h3>Introduction</h3>
+<p>Victoria has some of the strongest rental protections in Australia, but�renting can still be complicated. With 1 in 3 Victorians now renting, understanding your rental rights has never been more important.</p>
+<p>The <em>Renters Guide</em> explains the rules and your rights at every stage�of renting in Victoria, from applying for a property to moving out.</p>
+<p>Whether you�re a first-time renter or have rented before, this guide�provides you with the information you need to rent confidently.</p>
+<h3>Key terms</h3>
+<ul>
+<li><strong>Rental provider:</strong>�landlord.</li>
+<li><strong>Renter:</strong>�tenant.</li>
+<li><strong>Agent:</strong>�real estate agent.</li>
+<li><strong>The Residential Tenancies Act 1997:</strong>�This sets out the laws, rights�and responsibilities of renters and rental providers in Victoria.</li>
+<li><strong>RTBA:</strong> the Residential Tenancies Bond Authority. It holds residential rental bonds for Victorians as a neutral party, for the renter and the rental provider.</li>
+<li><strong>PRBS: </strong>Portable Rental Bond Scheme. Eligible renters can transfer the value of their existing bond or �bond money� to their next rental property, saving them being out of pocket.</li>
+<li><strong>RDRV:</strong>�Rental Dispute Resolution Victoria. A free dispute resolution service�to help renters and rental providers resolve disputes.</li>
+<li><strong>VCAT:</strong>�Victorian Civil and Administrative Tribunal. This tribunal resolves�legal disputes and cases in Victoria, including renting issues.</li>
+</ul>
+<h3>Where to find more information</h3>
+<p>Our website has�detailed resources on:</p>
+<ul>
+<li><a href="/housing/renting">General renting information</a>�(for renters, rental providers and agents)</li>
+<li><a href="/resources-and-tools/other-languages">Information in other languages</a>�</li>
+<li><a href="/resources-and-tools/consumers-with-a-disability/easy-english-factsheets">Easy English resources</a>.</li>
+</ul>
+<h3>Stay updated</h3>
+<p>For the most current information, go to�<a href="/housing/renting">Renting</a>.</p>
+<p>Follow Consumer Affairs Victoria on�<a href="https://www.facebook.com/ConsumerAffairsVictoria">Facebook</a>�and�<a href="https://www.instagram.com/consumeraffairsvictoria">Instagram</a>�for regular�renting information and updates.</p>
+<h3>Helpful contacts</h3>
+<table>
+<thead>
+<tr>
+<th>
+<p>Organisation</p>
+</th>
+<th>
+<p>When to contact</p>
+</th>
+<th>Phone number</th>
+<th>
+<p>Website</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Consumer Affairs Victoria</p>
+</td>
+<td>
+<p>If you have questions about renting agreements, bonds, rent increases or repairs.</p>
+<p>If you are being evicted.</p>
+</td>
+<td>
+<p><a href="tel:1300558181">1300�55�81�81</a></p>
+</td>
+<td>
+<p><a href="/contact-us">consumer.vic.gov.au/contact</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Residential Tenancies Bond Authority (RTBA)</p>
+</td>
+<td>
+<p>To look up your bond, transfer a bond or arrange a bond refund.</p>
+</td>
+<td><a href="tel:1300137164">1300�137�164</a></td>
+<td>
+<p><a href="https://www.rentalbonds.vic.gov.au ">rentalbonds.vic.gov.au</a></p>
+</td>
+</tr>
+<tr>
+<td>Rental Dispute Resolution Victoria (RDRV)</td>
+<td>
+<p>If you have tried all other options to resolve a dispute about a rent increase, repair or bond.</p>
+</td>
+<td><a href="tel: 1300 017 378">1300 017 378</a><br/>
+</td>
+<td><a href="https://www.rdrv.vic.gov.au/">rdrv.vic.gov.au</a><br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>Victorian Civil and Administrative Tribunal (VCAT) </p>
+</td>
+<td>
+<p>To apply for a hearing about a renting dispute.</p>
+</td>
+<td>
+<p><a href="tel:1300018228">1300�01�8228</a></p>
+</td>
+<td>
+<p><a href="https://www.vcat.vic.gov.au/renting ">vcat.vic.gov.au/renting</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tenants Victoria</p>
+</td>
+<td>
+<p>If you need help from a support worker.</p>
+</td>
+<td><a href="tel:0394162577">03�9416�2577</a></td>
+<td>
+<p><a href="https://www.tenantsvic.org.au">tenantsvic.org.au</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Victorian Aboriginal Legal Service (VALS)</p>
+</td>
+<td>
+<p>If you are an Aboriginal and Torres Strait Islander person and need legal help.</p>
+</td>
+<td><a href="tel:1800064865">1800�064�865</a></td>
+<td>
+<p><a href="https://www.vals.org.au">vals.org.au</a></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Housing Victoria (Department of Families, Fairness and Housing)</p>
+</td>
+<td>
+<p>To apply for a bond loan.</p>
+<p>If you have nowhere to stay.</p>
+</td>
+<td>
+<p><a href="tel:1800825955">1800�825�955</a> <br/>
+            (24 hours)</p>
+</td>
+<td>
+<p><a href="https://www.housing.vic.gov.au">housing.vic.gov.au</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Need help in your language?</h3>
+<p>Call TIS National interpreting service on <a href="tel: 131 450">131 450</a>.</p>
+<p>Ask to be put through to Consumer Affairs Victoria.</p>
+<p><a href="/library/publications/housing-and-accommodation/renting/renters-guide.pdf"><span class="btn-action">Download the Renters Guide PDF</span></a></p>
+</div>
+</section>
+</div>
+<aside class="col-md-4 mobile-bleed sidebar" role="complimentary">
+<section class="link-list related-links" id="page_content_1_rightcolumn_0_relatedLinksRhsContainer">
+<h2 class="heading">Related links</h2>
+<ul>
+<li id="page_content_1_rightcolumn_0_li_link1"><a data-track-group="Related Links" data-track-label="Renters Guide home" data-track-type="link-navigation" href="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide">Renters Guide home</a></li>
+<li id="page_content_1_rightcolumn_0_li_link2"><a data-track-group="Related Links" data-track-label="Download the Renters Guide PDF" data-track-type="link-navigation" href="/library/publications/housing-and-accommodation/renting/renters-guide.pdf">Download the Renters Guide PDF</a></li>
+<li id="page_content_1_rightcolumn_0_li_link3"><a data-track-group="Related Links" data-track-label="Renting" data-track-type="link-navigation" href="/housing/renting">Renting</a></li>
+</ul>
+</section>
+</aside>
+</div>
+<div class="row">
+<div class="col-md-8">
+<aside class="page-information">
+<div class="last-updated">
+<p>Last updated: 31 March 2026</p>
+</div>
+<div class="page-helpful-survey" data-ajax="/services/DeliveryServices.asmx/AddLike" id="feedback">
+<h2 class="sr-only">Feedback</h2>
+<legend class="heading">Was this page helpful?</legend>
+<div class="form" id="formFields">
+<div class="radio">
+<label>
+<input id="helpful_yes" name="helpful" onclick="gtmRadioButtonClicked();" type="radio" value="Yes"/>
+
+                Yes
+
+            </label>
+</div>
+<div class="radio">
+<label>
+<input id="helpful_no" name="helpful" onclick="gtmRadioButtonClicked();" type="radio" value="No"/>
+
+                No
+
+            </label>
+</div>
+<div class="page-helpful-survey-questions">
+<label class="feedback-yes" for="txt_feedback_yes">Why? (optional). If you require a response, use our <a href="/contact-us" target="_blank">General enquiry online form</a>.</label>
+<label class="feedback-no" for="txt_feedback_no">Why not? (optional). If you require a response, use our <a href="/contact-us" target="_blank">General enquiry online form</a>.</label>
+<textarea class="form-control" id="txt_feedback" name="feedback" rows="3"></textarea>
+<input id="txt_GUID" name="guid" type="hidden" value="{4058FEB6-5292-45B8-8D1B-CF6F9F7511BC}"/>
+<input id="txt_Url" name="url" type="hidden" value="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/introduction-and-helpful-contacts"/>
+<input id="txt_KnowledgebasePage" name="knowledgebasePage" type="hidden" value="False"/>
+<input id="txt_IsMobile" name="isMobile" type="hidden" value="False"/>
+<input id="txt_requestUrl" name="requestUrl" type="hidden" value="https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/introduction-and-helpful-contacts"/>
+<label class="visuallyhidden" for="DenyRobs">Please ensure that this field is always blank.</label>
+<input class="visuallyhidden" id="DenyRobs" maxlength="100" name="page_content_1$page_information_1$DenyRobs" type="text" value=""/>
+<input class="btn" id="btn_submit" name="page_content_1$page_information_1$btn_submit" onclick="gtmSubmitClicked();" type="submit" value="Send feedback"/>
+</div>
+</div>
+</div>
+</aside>
+<div class="back-to-top">
+<a href="#top">Back To Top</a>
+</div>
+</div>
+</div>
+</div>
+</article>
+<section class="clearfix" id="content-below">
+</section>
+</main>
+
+</div>
+<div class="global-nav-overlay"></div>
+<div class="css-off"></div>
+</div>
+
+
+<!-- Tether, then Bootstrap JS. -->
+
+
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+
+        chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7 ]>
+
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+
+    <![endif]-->
+</form>
+</body>
+</html>
