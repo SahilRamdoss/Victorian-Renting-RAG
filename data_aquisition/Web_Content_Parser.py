@@ -1,5 +1,7 @@
 from bs4 import Tag
 from bs4 import BeautifulSoup
+from datetime import datetime
+import requests
 
 ALLOWED_TAGS = {
      # Paragraph and headings
@@ -29,6 +31,14 @@ ALLOWED_TAGS = {
      "ol",
      "li"
 }
+
+NOISE_TAGS = [
+    "script",
+    "style", 
+    "nav", 
+    "footer", 
+    "header"
+]
 
 DIRECT_TEXT_EXTRATION = {
      "p",
@@ -78,13 +88,37 @@ class WebContentParser:
 
 
 
-    def extract_body_content(self, soup: BeautifulSoup):
+    def extract_body_content(self, url: str|None = None, file_path: str|None = None):
+
+        if url != None and file_path != None:
+             raise Exception("Web_Content_Parser: Cannot provide both url and file path at the same time.")
+
+        if url == None and file_path == None:
+             raise Exception("Web_Content_Parser: Must provide either url of web page or file path for HTML content of web page.")
+
+        soup = BeautifulSoup("", "html.parser")
+
+        if url:
+             response = requests.get(url)
+             soup = BeautifulSoup(response.text, "html.parser")
+        elif file_path:
+             with open(file_path, "r") as f:
+                soup = BeautifulSoup(f.read(), "html.parser")
+        else:
+             raise Exception("Web_Content_Parser: Input is neither url nor file path!")
+
+        for element in soup(NOISE_TAGS):
+            element.decompose()
+
+        title = soup.find_all("title")[0].decode_contents().strip()
         main = soup.find_all(["main"])[0]
         main_children = []
 
         self._iterate_children(main, main_children)
 
         return {
+            "title": title,
+            "last_fetched": datetime.now().isoformat(sep=" "),
             "node": main.name,
             "children": main_children
         }
