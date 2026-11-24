@@ -29,7 +29,8 @@ ALLOWED_TAGS = {
      # List elements
      "ul",
      "ol",
-     "li"
+     "li",
+     "a"
 }
 
 NOISE_TAGS = [

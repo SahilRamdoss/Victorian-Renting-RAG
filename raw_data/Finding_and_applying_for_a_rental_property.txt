@@ -1,0 +1,871 @@
+
+<!DOCTYPE HTML>
+
+<html class="no-js" lang="en">
+
+  <head><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Google Tag Manager Data Layer -->
+    <script>
+        window.dataLayer = [
+        {
+//          'countryCode' : '{{Country Code}}', // AU
+            'language' : '', // English
+            'environment' : 'Production',
+            'currentVersion' : '1.0.0.0', // 1.0
+            'pageType' : 'Annual Report Content Page', // Home / Product / Category etc
+//          'uiExperience' : '{{User Interface}}', // Desktop / Mobile
+            'user' : {
+                'id' : '', // 0
+                'type' : 'Guest' // Guest
+            },
+//          'word-count-range': {{Word Range}}, 
+//          'word-count': {{Words}},
+            'session-start': '1795514117',
+            'emergency': document.querySelector('aside.notification-bar') != null,
+        }];
+    </script>
+    <!-- End Google Tag Manager Data Layer -->
+      
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5BWZBTR');</script>
+    <!-- End Google Tag Manager -->
+      
+
+    
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="DCTERMS.creator" content="Consumer Affairs Victoria, Victorian Government" /> 
+<meta name="DCTERMS.title" content="Finding and applying for a rental property" />
+<meta name="DCTERMS.modified" content="2026-6-30" />
+<meta name="DCTERMS.description" content="What you need to know about finding and applying for rental property. Includes the documents and info you need and a rental application checklist." />
+<meta name="DCTERMS.subject" content="Renting" />
+<meta name="Keywords" content="guide, guidebook, handbook, booklet, pamphlet, brochure, tenant, renter, landlord, Victoria, signing, tenancy, agreement, bond, rent, increases, eviction, notice, ending, lease, rental, property, renters guide, pets, mould, bond, red book, renting, guide, guidebook, handbook, booklet, pamphlet, brochure, tenant, renter, landlord, Victoria, signing, tenancy, agreement, bond, rent, increases, eviction, notice, ending, lease, rental, property, renting guide, renters guide, rental guide, rental housing guide, residential tenancy guide, red book, tenant guide, tenancy guide, tenancy handbook, renting a home, renting a house, digital, electronic, download, landlord guide, rent guide, how to rent, Victoria, Melbourne" />
+<meta name="ContentType" content="Annual Report Content Page" />
+<meta name="Description" content="What you need to know about finding and applying for rental property. Includes the documents and info you need and a rental application checklist." />
+
+
+
+<meta property="og:title" content="Finding and applying for a rental property" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/finding-and-applying-for-a-rental-property" />
+<meta property="og:description" content="What you need to know about finding and applying for rental property. Includes the documents and info you need and a rental application checklist." />
+
+
+
+
+
+<meta name="pageGuid" content="{42A512DF-0CC8-4155-A329-B06B5F01B074}" />
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/styles.min.css">
+
+
+
+<title>
+	Finding and applying for a rental property - Consumer Affairs Victoria
+</title><link href="/media/icons/favicon.ico" rel="shortcut icon" /> 
+      
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="/js/lib/modernizr.js"></script>
+    
+    <script src="//f1-oc.readspeaker.com/script/9189/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+    <!--<script type="text/javascript" src="/scams_quiz/js/scams_quiz_utils.js"></script>-->
+
+    <script type="text/javascript" src="/scams_quiz/js/jQuizMe-2.2.js"></script>
+    <script type="text/javascript" src="/scams_quiz/js/jQuizMe-runner.js"></script>
+    <script type="text/javascript" src="/js/forminteraction.min.js"></script>
+
+    <link rel="stylesheet" crossorigin="" href="/css/decision_support_tool.css" />
+    <script type="module" crossorigin="" src="/js/decision_support_tool.js"></script>
+
+    <!-- Visitor Identification Start -->
+    
+    <!-- Visitor Identification End -->
+  </head>
+    
+    <body id="bMainBody">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5BWZBTR" 
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <form method="post" action="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/finding-and-applying-for-a-rental-property" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CE2FB876" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="fZqIIHgOcgQ4mrtOCeNp8KM9pqKS19B2NMIT2mREfB2+NMSIVfwL7Fmw5V2ekm8siy1/W0zgN3XHBRY3Jz3Tcyxba61BvTr9I8THUxMz/oCjOkXqz5ghG9VMg8NE5fY4lom1yA+7ElZmIrCkX8/fgQ==" />
+</div>
+        
+            
+            
+            <div id="skip-links">
+                <a href="#main-content">Skip to content</a>
+                <a href="#main-navigation-toggle">Skip to main navigation</a>
+                <a href="#footer">Skip to footer</a>
+            </div>
+            
+            <div class="site-holder">
+
+                
+
+<div class="global-navigation">
+    <div class="global-navigation-header">
+	    <a href="/" class="btn-back" data-track-label="Back" data-track-type="" data-track-group="" data-track-data="">Back</a>
+    </div>
+    <nav id="main-navigation" class="menu-overview" data-active-level="0" role="navigation">
+	    <div class="menu-level menu-level-0" data-menu-level="0">
+		    <span class="heading">Your rights and responsibilities</span>
+            <span class="sr-only">Menu options for Consumer Affairs Victoria</span>
+            <ul>
+                
+                        <li>
+                            <a href="/housing" id="ctl09_rptMenuLevel0_ancMenuItem_0" data-track-label="Housing" data-track-group="Hamburger Menu" data-track-data="Housing" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-C803079DE67B49F2A949F87AD69BFD83-children" data-name="main-nav-C803079DE67B49F2A949F87AD69BFD83">
+	                            <span class="heading">Housing</span>
+                                <p>Renting, buying and selling property, building and renovating, owners corporations, retirement villages</p>
+                            </a>
+                            
+                            
+                                <div class="menu-level menu-level-1" id="main-nav-C803079DE67B49F2A949F87AD69BFD83-children" data-parent="main-nav-C803079DE67B49F2A949F87AD69BFD83" data-menu-level="1" data-id="C803079DE67B49F2A949F87AD69BFD83">
+                                
+                                </div>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/consumers-and-businesses" id="ctl09_rptMenuLevel0_ancMenuItem_1" data-track-label="Consumers and businesses" data-track-group="Hamburger Menu" data-track-data="Consumers and businesses" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-C78DC39D3CEE41B4AD15A68825FA173B-children" data-name="main-nav-C78DC39D3CEE41B4AD15A68825FA173B">
+	                            <span class="heading">Consumers and businesses</span>
+                                <p>Buying, selling and hiring products, services and cars, energy and utilities, product safety, scams, debt collectors, resources for businesses</p>
+                            </a>
+                            
+                            
+                                <div class="menu-level menu-level-1" id="main-nav-C78DC39D3CEE41B4AD15A68825FA173B-children" data-parent="main-nav-C78DC39D3CEE41B4AD15A68825FA173B" data-menu-level="1" data-id="C78DC39D3CEE41B4AD15A68825FA173B">
+                                
+                                </div>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/licensing-and-registration" id="ctl09_rptMenuLevel0_ancMenuItem_2" data-track-label="Licensing and registration" data-track-group="Hamburger Menu" data-track-data="Licensing and registration" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-2D59293353154C12B67D36E855B728BF-children" data-name="main-nav-2D59293353154C12B67D36E855B728BF">
+	                            <span class="heading">Licensing and registration</span>
+                                <p>Apply for, renew, update and cancel a licence or registration, lodge an annual statement, legal responsibilities</p>
+                            </a>
+                            
+                            
+                                <div class="menu-level menu-level-1" id="main-nav-2D59293353154C12B67D36E855B728BF-children" data-parent="main-nav-2D59293353154C12B67D36E855B728BF" data-menu-level="1" data-id="2D59293353154C12B67D36E855B728BF">
+                                
+                                </div>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/clubs-and-fundraising" id="ctl09_rptMenuLevel0_ancMenuItem_3" data-track-label="Clubs and fundraising" data-track-group="Hamburger Menu" data-track-data="Clubs and fundraising" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-82D1D1FF87134808BD3115A53880B79B-children" data-name="main-nav-82D1D1FF87134808BD3115A53880B79B">
+	                            <span class="heading">Clubs and fundraising</span>
+                                <p>Register, update, manage, or search for an incorporated association, fundraiser, or patriotic fund</p>
+                            </a>
+                            
+                            
+                                <div class="menu-level menu-level-1" id="main-nav-82D1D1FF87134808BD3115A53880B79B-children" data-parent="main-nav-82D1D1FF87134808BD3115A53880B79B" data-menu-level="1" data-id="82D1D1FF87134808BD3115A53880B79B">
+                                
+                                </div>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/resources-and-tools" id="ctl09_rptMenuLevel0_ancMenuItem_4" data-track-label="Resources and tools" data-track-group="Hamburger Menu" data-track-data="Resources and tools" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-4B7C488AEE334FEBA403546DA864FCC2-children" data-name="main-nav-4B7C488AEE334FEBA403546DA864FCC2">
+	                            <span class="heading">Resources and tools</span>
+                                <p>Forms and publications, legislation, languages, scams, First Nations, and disability resources, advice in a disaster</p>
+                            </a>
+                            
+                            
+                                <div class="menu-level menu-level-1" id="main-nav-4B7C488AEE334FEBA403546DA864FCC2-children" data-parent="main-nav-4B7C488AEE334FEBA403546DA864FCC2" data-menu-level="1" data-id="4B7C488AEE334FEBA403546DA864FCC2">
+                                
+                                </div>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/about-us" id="ctl09_rptMenuLevel0_ancMenuItem_5" data-track-label="About  us" data-track-group="Hamburger Menu" data-track-data="About  us" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-7001F6607B574E519DBC808C7680764C-children" data-name="main-nav-7001F6607B574E519DBC808C7680764C">
+	                            <span class="heading">About  us</span>
+                                
+                            </a>
+                            
+                            
+                                <div class="menu-level menu-level-1" id="main-nav-7001F6607B574E519DBC808C7680764C-children" data-parent="main-nav-7001F6607B574E519DBC808C7680764C" data-menu-level="1" data-id="7001F6607B574E519DBC808C7680764C">
+                                
+                                </div>
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/latest-news" id="ctl09_rptMenuLevel0_ancMenuItem_6" data-track-label="Latest news" data-track-group="Hamburger Menu" data-track-data="Latest news" class="page-link" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-7C3403BCC60C4B6CACB3D58DC5FE9B5F-children" data-name="main-nav-7C3403BCC60C4B6CACB3D58DC5FE9B5F">
+	                            <span class="heading">Latest news</span>
+                                
+                            </a>
+                            
+                            
+                        </li>
+                    
+                        <li>
+                            <a href="/contact-us" id="ctl09_rptMenuLevel0_ancMenuItem_7" data-track-label="Contact us" data-track-group="Hamburger Menu" data-track-data="Contact us" class="page-link" aria-expanded="false" data-track-type="link-navigation" aria-controls="main-nav-20DE4C0952964C5EA87EDA20E81D57BC-children" data-name="main-nav-20DE4C0952964C5EA87EDA20E81D57BC">
+	                            <span class="heading">Contact us</span>
+                                
+                            </a>
+                            
+                            
+                        </li>
+                    
+	        </ul>
+	    </div>
+    </nav>
+</div>
+
+
+                <div class="main-site">
+                    
+
+<header class="header">
+	<div class="container">
+		<div class="pull-left">
+		    <div class="menu">
+	<a id="main-navigation-toggle" class="btn menu-toggle" href="/" tabindex="0" data-track-label="Menu" data-track-type="toggle-navigation-open" data-track-group="Hamburger Menu" aria-controls="main-navigation" aria-expanded="false" href="">Menu</a><a class="btn close" href="" data-track-label="Close" data-track-type="toggle-navigation-close" data-track-group="Hamburger Menu"><span class="close-icon"></span>Close</a>
+</div>
+
+			<div class="logo">
+				<a data-track-type="logo-navigation" data-track-group="Top Bar" data-track-label="Home" href="/">
+                    <img src="/library/images/logos/logocavwhitetrans.png?h=58&amp;iar=0&amp;w=208&amp;hash=48138ABB408D6E4F04430F1F0382865D" class="desktop hidden-xs hidden-sm" alt="Consumer Affairs Victoria" width="208" height="58" />
+                    <img src="/library/images/logos/logocavwhitetrans.png?h=58&amp;iar=0&amp;w=208&amp;hash=48138ABB408D6E4F04430F1F0382865D" class="mobile visible-xs visible-sm" alt="Consumer Affairs Victoria" width="208" height="58" />
+                    
+				</a>
+			</div>
+		</div>
+        
+        <div class="search mobile-search visible-xs visible-sm pull-right">
+			<a class="btn search-toggle icon-search-white-sm" aria-controls="main-search" aria-expanded="false" data-track-group="Top Bar" data-track-label="Search" data-track-type="button-navigation">
+				Search
+			</a>
+		</div>		
+        
+        <div class="header-controls pull-right">
+            
+
+<div id="main-search" class="search" role="search">
+    <label for="cav-header-search" class="sr-only">Search</label>
+    <gcse:searchbox-only resultsurl="/search-results" queryparametername="s"></gcse:searchbox-only>
+    <form></form>
+    <div id="___gcse_0">
+        <div class="gsc-control-searchbox-only gsc-control-searchbox-only-en" dir="ltr" 
+                data-getpredictive-url="/services/searchui.asmx/GetPredictive" 
+                data-getmodaltabs-url="/services/searchui.asmx/GetModalTabs"
+                data-keyword-items="5"
+                data-article-items="5"
+                data-search-instruction-keyword="Please enter a keyword search..."
+                data-search-instruction-article="Related articles for your keyword search"
+                data-no-results-keyword="No keyword results found"
+                data-no-results-article="No related articles found">
+            <form id="header-search-form" class="gsc-search-box" accept-charset="utf-8" action="/search-results" method="get">
+                <table class="gsc-search-box" cellspacing="0" cellpadding="0">
+                    <tbody>
+                        <tr>
+                            <td class="gsc-input">
+                                <input autocomplete="off" size="10" class="gsc-input " name="s" title="search" id="cav-header-search" x-webkit-speech="" x-webkit-grammar="builtin:search" dir="ltr" spellcheck="false" style="outline: medium none currentcolor;" placeholder="Search..." type="text" lang="en">
+                                <input type="hidden" name="bgresponse" id="bgresponse" />
+                            </td>
+                            <td class="gsc-search-button">
+                                <input value="Search" class="gsc-search-button btn btn-search icon-search-white-sm" title="search" style="display: inline-block; z-index: 100;" type="submit"
+                                    data-track-group="Top Bar" 
+                                    data-track-label="Search | Click"
+                                    data-track-type="button-navigation"
+                                    >
+                                <i style="z-index: 99; left: -28px;" class="icon-search-white-sm"></i>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </form>
+        </div>
+        <div class="search-modal-wrapper">
+            <div class="search-modal">
+              <div class="search-modal-keyword">
+                <div class="loading-spinner-keyword"></div>
+                <ul id="search-modal-keyword-list">Please enter a keyword search...</ul>
+                <button type="button" class="btn-secondary btn-keyword-search-desktop" id="global-search-button-desktop">
+                  <i class="filter-view"></i> View and refine&nbsp;<strong><span id="search-modal-keyword-count"></span></strong>&nbsp;results for '<span id="search-modal-keyword-btn"></span>'
+                </button>
+                <button type="button" class="btn-secondary btn-keyword-search-mobile" id="global-search-button-mobile">
+                  View&nbsp;<strong><span id="search-modal-keyword-count-mobile"></span></strong>&nbsp;results
+                </button>
+              </div>
+            </div>
+            <div class="search-modal-tabs">
+              <div class="search-modal-tab search-modal-tab-related-articles">
+                <input type="radio" id="tab-articles" name="search-modal-tab-group" checked />
+                <label for="tab-articles" class="search-modal-title">Related Articles</label>
+                <div class="search-modal-tab-content ">
+                  <div class="loading-spinner-articles"></div>
+                  <ul id="search-modal-tab-related-articles"></ul>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="search-modal-overlay"></div>
+</div>
+
+
+
+
+
+<div class="options">
+	<div class="languages">
+        <a href="#" class="btn languages-toggle" aria-controls="languages-list" aria-expanded="false" data-track-label="Languages" data-track-type="toggle-navigation-close" data-track-group="Top Bar">
+            Languages
+        </a>
+        <div id="languages-list" class="languages-list">
+            <ul id="page_header_0_pagetop_0_lstLanguages" class="multi-column-list two-column">
+                
+            <li><a href="/resources-and-tools/other-languages/other-languages" data-track-group="Top Bar" data-track-label="Language | Other languages" data-track-type="link-navigation">Other languages</a></li><li><a href="/resources-and-tools/other-languages/amharic" data-track-group="Top Bar" data-track-label="Language | Amharic" data-track-type="link-navigation">Amharic</a></li><li><a href="/resources-and-tools/other-languages/arabic" data-track-group="Top Bar" data-track-label="Language | Arabic" data-track-type="link-navigation">Arabic</a></li><li><a href="/resources-and-tools/other-languages/assyrian" data-track-group="Top Bar" data-track-label="Language | Assyrian" data-track-type="link-navigation">Assyrian</a></li><li><a href="/resources-and-tools/other-languages/burmese" data-track-group="Top Bar" data-track-label="Language | Burmese" data-track-type="link-navigation">Burmese</a></li><li><a href="/resources-and-tools/other-languages/chinese-simplified" data-track-group="Top Bar" data-track-label="Language | Chinese Simplified" data-track-type="link-navigation">Chinese Simplified</a></li><li><a href="/resources-and-tools/other-languages/chinese" data-track-group="Top Bar" data-track-label="Language | Chinese" data-track-type="link-navigation">Chinese</a></li><li><a href="/resources-and-tools/other-languages/chin-hakha" data-track-group="Top Bar" data-track-label="Language | Chin Hakha" data-track-type="link-navigation">Chin Hakha</a></li><li><a href="/resources-and-tools/other-languages/croatian" data-track-group="Top Bar" data-track-label="Language | Croatian" data-track-type="link-navigation">Croatian</a></li><li><a href="/resources-and-tools/other-languages/dari" data-track-group="Top Bar" data-track-label="Language | Dari" data-track-type="link-navigation">Dari</a></li><li><a href="/resources-and-tools/other-languages/dinka" data-track-group="Top Bar" data-track-label="Language | Dinka" data-track-type="link-navigation">Dinka</a></li><li><a href="/resources-and-tools/other-languages/english" data-track-group="Top Bar" data-track-label="Language | English" data-track-type="link-navigation">English</a></li><li><a href="/resources-and-tools/other-languages/farsi-persian" data-track-group="Top Bar" data-track-label="Language | Farsi Persian" data-track-type="link-navigation">Farsi Persian</a></li><li><a href="/resources-and-tools/other-languages/greek" data-track-group="Top Bar" data-track-label="Language | Greek" data-track-type="link-navigation">Greek</a></li><li><a href="/resources-and-tools/other-languages/hazaragi" data-track-group="Top Bar" data-track-label="Language | Hazaragi" data-track-type="link-navigation">Hazaragi</a></li><li><a href="/resources-and-tools/other-languages/hindi" data-track-group="Top Bar" data-track-label="Language | Hindi" data-track-type="link-navigation">Hindi</a></li><li><a href="/resources-and-tools/other-languages/italian" data-track-group="Top Bar" data-track-label="Language | Italian" data-track-type="link-navigation">Italian</a></li><li><a href="/resources-and-tools/other-languages/japanese" data-track-group="Top Bar" data-track-label="Language | Japanese" data-track-type="link-navigation">Japanese</a></li><li><a href="/resources-and-tools/other-languages/karen" data-track-group="Top Bar" data-track-label="Language | Karen" data-track-type="link-navigation">Karen</a></li><li><a href="/resources-and-tools/other-languages/korean" data-track-group="Top Bar" data-track-label="Language | Korean" data-track-type="link-navigation">Korean</a></li><li><a href="/resources-and-tools/other-languages/macedonian" data-track-group="Top Bar" data-track-label="Language | Macedonian" data-track-type="link-navigation">Macedonian</a></li><li><a href="/resources-and-tools/other-languages/maltese" data-track-group="Top Bar" data-track-label="Language | Maltese" data-track-type="link-navigation">Maltese</a></li><li><a href="/resources-and-tools/other-languages/nepalese" data-track-group="Top Bar" data-track-label="Language | Nepalese" data-track-type="link-navigation">Nepalese</a></li><li><a href="/resources-and-tools/other-languages/nuer" data-track-group="Top Bar" data-track-label="Language | Nuer" data-track-type="link-navigation">Nuer</a></li><li><a href="/resources-and-tools/other-languages/portuguese" data-track-group="Top Bar" data-track-label="Language | Portuguese" data-track-type="link-navigation">Portuguese</a></li><li><a href="/resources-and-tools/other-languages/punjabi" data-track-group="Top Bar" data-track-label="Language | Punjabi" data-track-type="link-navigation">Punjabi</a></li><li><a href="/resources-and-tools/other-languages/russian" data-track-group="Top Bar" data-track-label="Language | Russian" data-track-type="link-navigation">Russian</a></li><li><a href="/resources-and-tools/other-languages/sinhalese" data-track-group="Top Bar" data-track-label="Language | Sinhalese" data-track-type="link-navigation">Sinhalese</a></li><li><a href="/resources-and-tools/other-languages/somali" data-track-group="Top Bar" data-track-label="Language | Somali" data-track-type="link-navigation">Somali</a></li><li><a href="/resources-and-tools/other-languages/spanish" data-track-group="Top Bar" data-track-label="Language | Spanish" data-track-type="link-navigation">Spanish</a></li><li><a href="/resources-and-tools/other-languages/swahili" data-track-group="Top Bar" data-track-label="Language | Swahili" data-track-type="link-navigation">Swahili</a></li><li><a href="/resources-and-tools/other-languages/thai" data-track-group="Top Bar" data-track-label="Language | Thai" data-track-type="link-navigation">Thai</a></li><li><a href="/resources-and-tools/other-languages/turkish" data-track-group="Top Bar" data-track-label="Language | Turkish" data-track-type="link-navigation">Turkish</a></li><li><a href="/resources-and-tools/other-languages/urdu" data-track-group="Top Bar" data-track-label="Language | Urdu" data-track-type="link-navigation">Urdu</a></li><li><a href="/resources-and-tools/other-languages/vietnamese" data-track-group="Top Bar" data-track-label="Language | Vietnamese" data-track-type="link-navigation">Vietnamese</a></li></ul>
+        </div>  
+    </div>
+    
+    
+			<a class="btn" href="/mycav" data-track-label="Sign In" data-track-type="button-navigation" data-track-group="Top Bar">myCAV</a>
+		
+	
+</div>
+        </div>
+
+	</div>
+</header>   
+            
+                    <main id="main-content">
+            
+                        <nav class="breadcrumbs" role="navigation breadcrumbs">
+	<div class="container">
+		<p class="sr-only">Breadcrumbs</p><ol class="hlist">
+			<li><a href="/" data-track-type="link-navigation" data-track-group="Breadcrumb" data-track-label="Consumer Affairs Victoria">Consumer Affairs Victoria</a></li><li><a href="/housing" data-track-type="link-navigation" data-track-group="Breadcrumb" data-track-label="Housing">Housing</a></li><li><a href="/housing/renting" data-track-type="link-navigation" data-track-group="Breadcrumb" data-track-label="Renting">Renting</a></li><li><a href="/housing/renting/starting-and-changing-rental-agreements" data-track-type="link-navigation" data-track-group="Breadcrumb" data-track-label="Starting and changing rental agreements">Starting and changing rental agreements</a></li><li><a href="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters" data-track-type="link-navigation" data-track-group="Breadcrumb" data-track-label="Resources and guides for renters">Resources and guides for renters</a></li><li><a href="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide" data-track-type="link-navigation" data-track-group="Breadcrumb" data-track-label="Renters Guide"><span class='back-to-text'> &lt; Back to </span> Renters Guide</a></li>
+		</ol><div class="user-toolbar">
+			<aside class="share-list">
+				<h2 class="heading share-title">
+					Share
+				</h2><ul class="share-list-wrap">
+					<li><a href="javascript:window.print()" class="icon-left icon-print-sm-grey">Print this page</a></li><li><a href="mailto:?subject=Finding%20and%20applying%20for%20a%20rental%20property%20-%20Consumer%20Affairs%20Victoria&amp;body=URL:%20https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2ffinding-and-applying-for-a-rental-property" class="icon-email-sm-grey">Share via Email</a></li><li><a href="http://www.facebook.com/share.php?u=https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2ffinding-and-applying-for-a-rental-property&amp;title=Finding and applying for a rental property" class="icon-facebook-sm-grey facebook-share" target="_blank">Share on Facebook</a></li><li><a href="https://twitter.com/intent/tweet?status=Finding and applying for a rental property+https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2ffinding-and-applying-for-a-rental-property" class="icon-twitter-sm-grey" target="_blank">Share on Twitter</a></li>
+				</ul>
+			</aside>
+		</div>
+	</div>
+</nav>
+
+<article class="content-page">
+	<div class="container">
+		
+
+<div class="row">
+	<div class="col-sm-12">
+		<h1 class="heading main">
+			Finding and applying for a rental property
+		</h1>
+	</div>
+</div>
+
+		<div class="row">
+			<div class="col-md-8">              
+                
+                
+
+<a class="sr-only sr-only-focusable" href="#skip-share">Skip listen and sharing tools</a>
+
+<div class="user-toolbar">
+
+    
+
+<div class="page-listen-tool" aria-label="Listen to this page">
+    <div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+        <a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="//app-oc.readspeaker.com/cgi-bin/rsent?customerid=9189&lang=en_au&readid=GeneralBodyContent&url=https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2ffinding-and-applying-for-a-rental-property">
+		    <span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+		    <span class="rsbtn_right rsimg rsplay rspart"></span>
+        </a>
+    </div>
+</div>
+
+    <aside id="page_content_1_before_content_0_shareList" class="share-list" aria-describedby="share-title">
+        <h2 id="share-title" class="heading share-title">Share<span> this page</span></h2>
+        <ul class="share-list-wrap">
+            <li id="page_content_1_before_content_0_liPrint"><a href="javascript:window.print()" class="icon-left icon-print-sm-grey" data-track-label="Print" data-track-type="link-print" data-track-group="Share this page">Print</a></li>
+            <li id="page_content_1_before_content_0_liEmail"><a href="mailto:?subject=Finding%20and%20applying%20for%20a%20rental%20property%20-%20Consumer%20Affairs%20Victoria&body=URL: https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2ffinding-and-applying-for-a-rental-property" class="icon-email-sm-grey" data-track-label="Email" data-track-type="link-email" data-track-group="Share this page">Email</a></li>
+            <li id="page_content_1_before_content_0_liFacebook"><a href="http://www.facebook.com/share.php?u=https%3a%2f%2fwww.consumer.vic.gov.au%2fhousing%2frenting%2fstarting-and-changing-rental-agreements%2fresources-and-guides-for-renters%2frenters-guide%2ffinding-and-applying-for-a-rental-property&title=Finding+and+applying+for+a+rental+property" class="icon-facebook-sm-grey facebook-share" target="_blank" data-track-label="Facebook" data-track-type="link-social-share" data-track-group="Share this page">Facebook</a></li>
+        </ul>
+    </aside>
+</div>
+
+<a id="skip-share" name="skip-share"></a>
+
+				<section id="GeneralBodyContent">
+					
+                    
+
+<div class="content rte-content">
+    Learn about finding and applying for a rental property in Victoria:
+<h3></h3>
+</div>
+
+
+<div id="page_content_1_subl_middlecolumn_1" class="section accordion ">
+        
+    <a class="accordion-toggle collapsed" aria-controls="{528FAB5E-503D-42BD-A17C-E4B01A827D8B}" aria-expanded="false" href="#">
+        <h3 class="heading">Before you apply</h3>
+    </a>              
+        
+    <div id="{528FAB5E-503D-42BD-A17C-E4B01A827D8B}" class="accordion-content">
+        <h3>Documents and information you may need to provide:</h3>
+<ul>
+    <li>Formal identification (such as a driver&rsquo;s licence)</li>
+    <li>Employment and financial details,  such as a payslip</li>
+    <li>Rental or residential history</li>
+    <li>Personal references, if requested.</li>
+</ul>
+<p>Rental providers must ask for this information through the prescribed rental application form. They can&rsquo;t ask you for any information that is not set out in the form.</p>
+<p>Read more about <a href="/housing/renting/starting-and-changing-rental-agreements/applying-signing-and-moving-in/applying-for-a-property">applying for a property</a>.</p>
+<p>The rental provider or agent cannot ask you for the following information in your application:</p>
+<ul>
+    <li>Whether you&rsquo;ve taken legal action or had a dispute with a previous rental provider.</li>
+    <li>Your bond history, including any claims you&rsquo;ve made on your bond.</li>
+    <li>Detailed bank statements with daily transactions (if you need to provide&nbsp;a statement, you can delete transactions you think should be kept private).</li>
+</ul>
+<h3>Unlawful discrimination in renting</h3>
+<p>In Victoria, it&rsquo;s against the law to stop somebody from renting a property because of certain personal characteristics, including:</p>
+<ul>
+    <li>age</li>
+    <li>carer status, family responsibilities, parental status</li>
+    <li>disability</li>
+    <li>employment</li>
+    <li>gender identity, lawful sexual activity, sexual orientation</li>
+    <li>marital status</li>
+    <li>physical features</li>
+    <li>pregnancy, breastfeeding</li>
+    <li>profession, trade or occupation (including being a sex worker)</li>
+    <li>race (including colour, nationality, ethnicity and ethnic origin)</li>
+    <li>religious belief or activity</li>
+    <li>sex.</li>
+</ul>
+<p>If a rental provider asks about personal protected attributes outlined in the <em>Equal Opportunity Act 2010</em> (for example, ethnicity, gender identity, disability), they must provide you with a written reason for requesting this information.</p>
+<p>The rental provider must also provide you with a statement on discrimination as part of the application form so that you are aware of your rights.</p>
+<p>Find more information about <a href="/housing/renting/legal-and-dispute-support/unlawful-discrimination">unlawful discrimination in renting</a>.</p>
+<p class="help-tips"><strong>Important to know:</strong> Rental providers or agents can&rsquo;t charge a fee to show you a property to rent.</p>
+    </div>
+
+</div>
+
+<div id="page_content_1_subl_middlecolumn_2" class="section accordion ">
+        
+    <a class="accordion-toggle collapsed" aria-controls="{1A812AA0-7E8C-4E53-9072-3C76F2530D54}" aria-expanded="false" href="#">
+        <h3 class="heading">Rules for advertised rental properties</h3>
+    </a>              
+        
+    <div id="{1A812AA0-7E8C-4E53-9072-3C76F2530D54}" class="accordion-content">
+        <h4>Legal requirements:</h4>
+<ul>
+    <li>Rental properties must be advertised at a fixed amount only. For example,&nbsp;$475 per week.</li>
+    <li>It&rsquo;s unlawful for rental providers or agents to:
+    <ul>
+        <li>advertise a property with a price range</li>
+        <li>ask for, invite or accept offers of rent higher than the advertised price</li>
+        <li>ask for, invite or accept more than one month&rsquo;s rent in advance</li>
+        <li>advertise or offer a property to let unless they reasonably believe the premises meet the rental minimum standards.</li>
+    </ul>
+    </li>
+</ul>
+<h3>Seen a rental property that doesn&rsquo;t look quite right?</h3>
+<p>You can make an anonymous report to our Renting Taskforce using&nbsp;our&nbsp;<a href="/housing/renting/starting-and-changing-rental-agreements/applying-signing-and-moving-in/applying-for-a-property/report-an-issue-with-an-advertised-rental-property">online form</a>.</p>
+<p>Since 2024, our Renting Taskforce has helped protect Victorian renters&rsquo;&nbsp;rights by taking action against rental providers and agents who break&nbsp;the law.</p>
+<p>The taskforce investigates issues affecting the safety, security and&nbsp;wellbeing of renters, including:</p>
+<ul>
+    <li>advertising or renting out a property that doesn&rsquo;t meet the&nbsp;<a href="/housing/renting/repairs-alterations-safety-and-pets/minimum-standards/minimum-standards-for-rental-properties">rental minimum standards</a></li>
+    <li>false advertising</li>
+    <li>not lodging bonds with the <a href="/about-us/statutory-bodies-and-committees/residential-tenancies-bond-authority">Residential Tenancies Bond Authority</a>&nbsp;or taking an excessive bond (bonds should generally be no higher than the amount of one month's rent)</li>
+    <li>re-letting a property within 6 months after using a notice to vacate claiming the property was going to be sold, demolished or converted</li>
+    <li>failure to provide a condition report</li>
+    <li>rental bidding.</li>
+</ul>
+<p>Rental providers and agents who break the law may be issued with&nbsp;a fine or warning or other enforcement action.</p>
+    </div>
+
+</div>
+
+<div id="page_content_1_subl_middlecolumn_3" class="section accordion ">
+        
+    <a class="accordion-toggle collapsed" aria-controls="{1F457BA4-2950-4D30-881A-7C18E6DE4430}" aria-expanded="false" href="#">
+        <h3 class="heading">Plan your budget and calculate rent payments</h3>
+    </a>              
+        
+    <div id="{1F457BA4-2950-4D30-881A-7C18E6DE4430}" class="accordion-content">
+        <p>Our free rent calculator can help you:</p>
+<ul>
+    <li>work out if a rental property fits your budget over time</li>
+    <li>calculate the exact amount you owe if you move out part-way through a rent payment period</li>
+    <li>plan your housing expenses more effectively.</li>
+</ul>
+<p>Use the&nbsp;<a href="/housing/renting/rent-bond-bills-and-condition-reports/rent/rent-calculator">rent calculator</a>.</p>
+    </div>
+
+</div>
+
+<div id="page_content_1_subl_middlecolumn_4" class="section accordion last">
+        
+    <a class="accordion-toggle collapsed" aria-controls="{CE95C320-4B9C-4568-B0C9-53396B5A8B59}" aria-expanded="false" href="#">
+        <h3 class="heading">Rental application checklist</h3>
+    </a>              
+        
+    <div id="{CE95C320-4B9C-4568-B0C9-53396B5A8B59}" class="accordion-content">
+        <p>This checklist includes the key steps when applying&nbsp;for a rental property.</p>
+<p>
+</p>
+<ul class="checklist">
+    <li><img alt="" src="/media/images/checklist-print.png" width="23" height="23" />Read through and complete the <a href="/library/forms/housing-and-accommodation/renting/residential-rental-application-31-march-2026.docx">rental application form</a>. </li>
+    <li><img alt="" src="/media/images/checklist-print.png" width="23" height="23" />Provide the relevant identification and financial documents. </li>
+    <li><img alt="" src="/media/images/checklist-print.png" width="23" height="23" />Make sure you can pay the bond (usually the same amount&nbsp;as one month&rsquo;s rent) along with the first month&rsquo;s rent.&nbsp;Generally, these need to be paid before you move in. </li>
+    <li><img alt="" src="/media/images/checklist-print.png" width="23" height="23" />Sign your completed application form, include all required&nbsp;attachments and send these back to the agent or rental provider. </li>
+</ul>
+    </div>
+
+</div>
+
+<div class="content rte-content">
+    <p><a href="/library/publications/housing-and-accommodation/renting/renters-guide.pdf"><span class="btn-action">Download the Renters Guide PDF</span></a></p>
+</div>
+
+                     
+                    
+                    
+    
+    
+
+				</section>
+			</div>
+
+			<aside class="col-md-4 mobile-bleed sidebar" role="complimentary">
+                
+    <section id="page_content_1_rightcolumn_0_relatedLinksRhsContainer" class="link-list related-links">
+	    <h2 class="heading">Related links</h2>
+	    <ul>
+	        <li id="page_content_1_rightcolumn_0_li_link1"><a data-track-type="link-navigation" data-track-group="Related Links" data-track-label="Renters Guide home" href="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide">Renters Guide home</a></li>
+		    <li id="page_content_1_rightcolumn_0_li_link2"><a data-track-type="link-navigation" data-track-group="Related Links" data-track-label="Download the Renters Guide PDF" href="/library/publications/housing-and-accommodation/renting/renters-guide.pdf">Download the Renters Guide PDF</a></li>
+		    <li id="page_content_1_rightcolumn_0_li_link3"><a data-track-type="link-navigation" data-track-group="Related Links" data-track-label="Helpful contacts" href="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/introduction-and-helpful-contacts">Helpful contacts</a></li>
+		    <li id="page_content_1_rightcolumn_0_li_link4"><a data-track-type="link-navigation" data-track-group="Related Links" data-track-label="Renting" href="/housing/renting">Renting</a></li>
+		    
+		    
+	    </ul>
+    </section>
+    
+				
+			</aside>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <aside class="page-information">
+                    
+
+<div class="last-updated">
+    <p>Last updated: 30 June 2026</p>
+</div>  
+
+<div id="feedback" class="page-helpful-survey" data-ajax="/services/DeliveryServices.asmx/AddLike">
+    <h2 class="sr-only">Feedback</h2>
+    <legend class="heading">Was this page helpful?</legend>
+
+    <div id="formFields" class="form">
+        <div class="radio">
+            <label>
+                <input type="radio" id="helpful_yes" name="helpful" value="Yes" onclick="gtmRadioButtonClicked();" />
+                Yes
+            </label>
+        </div>
+        <div class="radio">
+            <label>
+                <input type="radio" id="helpful_no" name="helpful" value="No" onclick="gtmRadioButtonClicked();" />
+                No
+            </label>
+        </div>
+
+        <div class="page-helpful-survey-questions">
+
+            <label class="feedback-yes" for="txt_feedback_yes">Why? (optional). If you require a response, use our <a href="/contact-us" target="_blank">General enquiry online form</a>.</label>
+            <label class="feedback-no" for="txt_feedback_no">Why not? (optional). If you require a response, use our <a href="/contact-us" target="_blank">General enquiry online form</a>.</label>
+            <textarea class="form-control" ID="txt_feedback" rows="3" name="feedback"></textarea>
+        
+            <input type="hidden" ID="txt_GUID" name="guid" value="{42A512DF-0CC8-4155-A329-B06B5F01B074}"/>
+            <input type="hidden" ID="txt_Url" name="url" value="/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/finding-and-applying-for-a-rental-property"/>
+            <input type="hidden" ID="txt_KnowledgebasePage" name="knowledgebasePage" value="False"/>
+            <input type="hidden" ID="txt_IsMobile" name="isMobile" value="False"/>
+            <input type="hidden" ID="txt_requestUrl" name="requestUrl" value="https://www.consumer.vic.gov.au/housing/renting/starting-and-changing-rental-agreements/resources-and-guides-for-renters/renters-guide/finding-and-applying-for-a-rental-property"/>
+            <label for="DenyRobs" class="visuallyhidden">Please ensure that this field is always blank.</label>
+            <input name="page_content_1$page_information_1$DenyRobs" type="text" maxlength="100" id="DenyRobs" class="visuallyhidden" value="" />
+
+            <input type="submit" name="page_content_1$page_information_1$btn_submit" value="Send feedback" onclick="gtmSubmitClicked();" id="btn_submit" class="btn" />
+        </div>
+    </div>
+</div>
+
+			    </aside>
+
+                
+
+
+
+
+            </div>
+		</div>
+        
+	</div>
+</article>
+            
+                        
+                        <section id="content-below" class="clearfix">
+                            
+                        </section>
+
+                    </main>
+
+                    
+
+
+<footer id="footer" class="footer" role="contentinfo">
+    <h2 class="sr-only">Footer</h2>
+    
+
+<section class="footer-sitemap">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-12 col-md-3">
+				
+                    <h3 class="heading">
+                        <a data-track-type="link-navigation" data-track-group="Footer" data-track-label="About us" href="/about-us">About us</a>
+                    </h3>
+                    <ul>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnOneLink1"><a data-track-type="link-navigation" data-track-group="Footer" href="/about-us/services-and-feedback">Services and feedback</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnOneLink2"><a data-track-type="link-navigation" data-track-group="Footer" href="/about-us/strategy-and-performance">Strategy and performance</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnOneLink3"><a data-track-type="link-navigation" data-track-group="Footer" href="/annual-report">Annual Report</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnOneLink4"><a data-track-type="link-navigation" data-track-group="Footer" href="/about-us/leadership-and-organisational-structure">Leadership and organisational structure</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnOneLink5"><a data-track-type="link-navigation" data-track-group="Footer" href="/about-us/regulatory-and-compliance-approach-and-priorities">Regulatory and compliance approach and priorities</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnOneLink6"><a data-track-type="link-navigation" data-track-group="Footer" href="/about-us/careers">Careers</a></li>
+                    </ul>
+                
+			</div>
+			<div class="col-sm-12 col-md-3">
+				
+                    <h3 class="heading">
+                        <a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Contact us" href="/contact-us">Contact us</a>
+                    </h3>
+                    
+                        <div class="hidden-sm hidden-xs rte-content">
+                            <p>How to contact us or another organisation to understand your rights and responsibilities, report an issue, make a media enquiry or give feedback.
+</p>
+                        </div>
+                    
+                    
+                
+			</div>
+            <div class="col-sm-12 col-md-3">
+				
+                    <h3 class="heading">
+                        <a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Resources and tools" href="/resources-and-tools">Resources and tools</a>
+                    </h3>
+					<ul>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnThreeLink1"><a data-track-type="link-navigation" data-track-group="Footer" href="/resources-and-tools/advice-in-a-disaster">Advice in a disaster</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnThreeLink2"><a data-track-type="link-navigation" data-track-group="Footer" href="/resources-and-tools/consumers-with-a-disability">Consumers with a disability</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnThreeLink3"><a data-track-type="link-navigation" data-track-group="Footer" href="/resources-and-tools/international-students">International students</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnThreeLink4"><a data-track-type="link-navigation" data-track-group="Footer" href="/resources-and-tools/yarrka-barring-resources-for-first-nations-people">Yarrka Barring Resources for First Nations people</a></li>
+                        <li id="page_footer_0_footer_quicklinks_0_li_columnThreeLink5"><a data-track-type="link-navigation" data-track-group="Footer" href="/resources-and-tools/legislation">Legislation</a></li>
+                        
+                    </ul>
+                    
+                
+			</div>						
+			
+			<div class="col-sm-12 col-md-3 hidden-xs hidden-sm social-mobile">
+				<h3 class="heading">
+				    <a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Stay informed" href="/resources-and-tools/newsletters-and-social-media">Stay informed</a>
+				</h3>
+				<ul class="stay-informed">
+				    
+                            <li>
+                                <a class="icon-facebook-sm-grey" data-track-type="link-social" data-track-group="Footer" data-track-data="facebook" data-track-label="Like us on Facebook" href="https://www.facebook.com/ConsumerAffairsVictoria/">Like us on Facebook</a>
+                            </li>
+				        
+                            <li>
+                                <a class="icon-instagram-sm-grey" data-track-type="link-social" data-track-group="Footer" data-track-data="instagram" data-track-label="Follow us on Instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/consumeraffairsvictoria/">Follow us on Instagram</a>
+                            </li>
+				        
+                            <li>
+                                <a class="icon-youtube-sm-grey" data-track-type="link-social" data-track-group="Footer" data-track-data="youtube" data-track-label="Watch our videos on YouTube" href="https://www.youtube.com/user/consumervic">Watch our videos on YouTube</a>
+                            </li>
+				        
+                            <li>
+                                <a class="icon-newsletter-sm-grey" data-track-type="link-social" data-track-group="Footer" data-track-data="email" data-track-label="Subscribe to our newsletter" href="/latest-news/email-updates">Subscribe to our newsletter</a>
+                            </li>
+				        
+                            <li>
+                                <a class="icon-rss-sm-grey" data-track-type="link-social" data-track-group="Footer" data-track-data="rss" data-track-label="Stay informed with RSS" target="Active Browser" href="/rss-feeds">Stay informed with RSS</a>
+                            </li>
+				        
+				</ul>
+			</div>															
+		</div>
+	</div>
+</section>
+
+
+    <section class="footer-main">
+        <div class="container">
+            <div class="image-text-grid">
+                
+
+    <div class="grid-item">
+        <div class="image-col">
+            <div class="footer-artwork-section">
+                <a href="https://www.consumer.vic.gov.au/resources-and-tools/yarrka-barring-resources-for-first-nations-people" id="page_footer_0_footer_ribbon_0_linkArtwork">
+                    <img src="/library/images/footer/tyaler-artwork.jpg" id="page_footer_0_footer_ribbon_0_imgArtwork" alt="Yarrka Barring artwork" />
+                </a>
+            </div>
+        </div>
+        <div class="text-col">
+            
+                <section id="block-atsi-acknowledgement">
+                    <div class="acknowledgement-content">
+                        <p>
+                            <img src="/library/images/footer/atsiflags.gif" id="page_footer_0_footer_ribbon_0_imgCustodianImage" class="pull-right" alt="Aboriginal and Torres Strait Island Flags" />We acknowledge the Traditional Owners of the lands, seas and skies. We pay our respects to their Elders past and present, and to future generations who will continue to care for Country.
+                        </p>
+                    </div>
+                </section>
+            
+            <ul class="footer-links hlist desktop-only">
+                <li id="page_footer_0_footer_ribbon_0_li_link1"><a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Privacy statement" href="/privacy-statement">Privacy statement</a></li>
+                <li id="page_footer_0_footer_ribbon_0_li_link2"><a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Disclaimer" href="/disclaimer">Disclaimer</a></li>
+                <li id="page_footer_0_footer_ribbon_0_li_link3"><a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Copyright" href="/copyright">Copyright</a></li>
+                <li id="page_footer_0_footer_ribbon_0_li_link4"><a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Accessibility" href="/accessibility">Accessibility</a></li>
+                <li id="page_footer_0_footer_ribbon_0_li_link5"><a data-track-type="link-navigation" data-track-group="Footer" data-track-label="Site map" href="/sitemap">Site map</a></li>
+                
+            </ul>
+        </div>
+    </div>
+
+
+                <div class="copyright desktop-only">
+                    <p>
+                        &#169; State Government of Victoria (Consumer Affairs Victoria)
+                    </p>
+                </div>
+
+                <div class="footer-brand desktop-only">
+                    <a class="footer-logo" target="_blank" rel="noopener noreferrer" href="http://www.vic.gov.au/">Victoria State Government</a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-mobile">
+            <div class="footer-brand-mobile">
+                <a class="footer-logo" target="_blank" rel="noopener noreferrer" href="http://www.vic.gov.au/">Victoria State Government</a>
+            </div>
+            <div class="row mobile-links">
+                <div class="col-xs-8" data-mobile-links>
+                    <!-- Here goes JS copied links for mobile -->
+
+
+                </div>
+            </div>
+        </div>
+        <div class="footer-mobile">
+            <div class="row mobile-links">
+                <div class="col-xs-12">
+                    <div class="copyright-mobile">
+                        <p>
+                            &#169; State Government of Victoria (Consumer Affairs Victoria)
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</footer>
+                </div>
+                <div class="global-nav-overlay"></div>
+                <div class="css-off"></div>
+            </div>
+            
+           <script type="text/template" id="template-menu-level">
+                <a href={{= Href}} class="page-link" aria-expanded="false">
+                    <span class="heading">{{= Heading}}</span>
+                </a>
+                    <ul>
+                        {{
+                        _.each(MenuItems,function(item,list){
+                        }}
+                        <li>
+
+                            <a tabindex="0" class=" {{ (item.HasChildren && (Level < 5) )? print(''): print('page-link')}}" href="{{= item.Href }}"
+                                                       data-name="{{= item.Heading }}" data-track-label="{{= item.TrackingData.Label}}"
+                                                       aria-expanded="{{ (item.HasChildren)? print('false'): print('')}}"
+                                                       aria-controls="main-nav-{{= item.Guid}}-children"
+                                                       data-track-data="{{= item.TrackingData.Data}}"
+                                                       data-track-group="{{= item.TrackingData.Group}}"
+                                                       data-track-type="{{= item.TrackingData.Type}}">
+                               <span class="heading">{{= item.Heading }}</span>
+                                {{ if (item.Description) { }}
+                                <p>{{= item.Description}}</p>
+                                {{ } }}
+                            </a>
+                            {{ if (item.HasChildren && (Level < 5)) { }}
+                            <div class="menu-level menu-level-{{= Level}}" id="main-nav-{{= item.Guid}}-children"
+                                 data-menu-level="{{= Level}}" data-id="{{= item.Guid}}" data-parent="main-nav-{{= item.Guid}}">
+
+                            </div>
+                            {{ } }}
+                        </li>
+                        {{
+                        });
+                        }}
+                    </ul>
+            </script>
+
+            
+
+    
+    <script type="text/javascript">var search_engine_id = '000494038817704712964:gtwgtybkny4';</script>
+
+    <!-- Tether, then Bootstrap JS. -->
+    <script src="https://code.jquery.com/ui/1.14.2/jquery-ui.min.js" integrity="sha384-tBcEcHGtNy7/Mx08+YxuvQ6v6s0N2jgehtFiT+bLtGwTj/txXtB/L5GqXfggm5sS" crossorigin="anonymous"></script>
+
+    <script src="/js/lib.min.js"></script>
+	<script src="/js/global.min.js"></script>
+
+<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+        chromium.org/developers/how-tos/chrome-frame-getting-started -->
+<!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+    <![endif]-->
+
+
+
+    
+
+       
+        </form>
+    </body>
+
+</html>
