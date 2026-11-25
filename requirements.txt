@@ -8,3 +8,5 @@ langchain-chroma
 langchain-openai
 chromadb
 load_dotenv
+langchain_community
+rank_bm25
