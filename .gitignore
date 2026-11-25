@@ -1,3 +1,5 @@
 .venv
 testing
 __pycache__
+.env
+chroma_db
