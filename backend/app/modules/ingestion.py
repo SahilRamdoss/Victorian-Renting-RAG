@@ -27,8 +27,10 @@ class Ingester:
     def create_chunks(self,html: str, url:str):
         # Extract tables separately
         table_docs, soup = self.__extract_table_docs(html, url)
+        # Get the page title
+        title = soup.find_all("title")[0].get_text().strip()
         # Set the origin url of the html
-        self.html_semantic_splitter._external_metadata = {"url": url}
+        self.html_semantic_splitter._external_metadata = {"title": title, "url": url}
         # Convert all embedded links to normal text
         soup = self.__strip_links(soup)
         # Create the chunks
