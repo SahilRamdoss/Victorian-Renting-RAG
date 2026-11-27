@@ -2,3 +2,8 @@ fastapi[standard]
 sqlalchemy
 psycopg[binary]
 pgvector
+langchain
+langchain_core
+langchain_openai
+langchain_text_splitters
+langchain_classic
