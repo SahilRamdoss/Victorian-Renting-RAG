@@ -8,11 +8,13 @@ from app.modules.chatbot import ChatBot
 from typing import Annotated
 from sqlalchemy.orm import Session
 from app.core.db import get_db
-
+from sqlalchemy import text
 
 
 @asynccontextmanager
 async def lifespan(app:FastAPI):
+    with engine.begin() as conn:
+        conn.execute(text("CREATE EXTENSION IF NOT EXISTS vector"))
     Base.metadata.create_all(bind=engine)
     yield
 

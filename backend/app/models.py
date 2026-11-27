@@ -1,6 +1,6 @@
 from sqlalchemy.orm import DeclarativeBase
 from datetime import datetime
-from sqlalchemy import String, Text, ForeignKey, DateTime, Index, func
+from sqlalchemy import String, ForeignKey, DateTime, Index, func
 from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from pgvector.sqlalchemy import Vector

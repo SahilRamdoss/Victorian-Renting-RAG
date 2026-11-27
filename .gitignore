@@ -4,3 +4,4 @@ __pycache__
 .env
 chroma_db
 raw_data
+__init__.py
