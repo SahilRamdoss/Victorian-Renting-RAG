@@ -1,6 +1,6 @@
 from sqlalchemy.orm import DeclarativeBase
-from datetime import datetime
-from sqlalchemy import String, ForeignKey, DateTime, Index, func
+from datetime import datetime, date
+from sqlalchemy import String, ForeignKey, DateTime, Index, func, Date
 from sqlalchemy.dialects.postgresql import JSONB
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 from pgvector.sqlalchemy import Vector
@@ -15,7 +15,7 @@ class Document(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     title: Mapped[str] = mapped_column(String)
     url: Mapped[str] = mapped_column(String, unique=True, index=True)
-    content_hash: Mapped[str] = mapped_column(String(64))
+    lastmode: Mapped[date] = mapped_column(Date)
     fetched_last: Mapped[datetime] = mapped_column(
         DateTime(timezone=True), server_default=func.now(), onupdate=func.now()
     )

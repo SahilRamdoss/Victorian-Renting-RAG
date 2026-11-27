@@ -10,3 +10,4 @@ chromadb
 load_dotenv
 langchain_community
 rank_bm25
+apscheduler>=3.10,<4
