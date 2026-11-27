@@ -2,18 +2,19 @@ from langchain.chat_models import init_chat_model
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from app.schema import UserQuery
-from langchain_openai import OpenAIEmbeddings
+from langchain_core.embeddings import Embeddings
 from sqlalchemy.orm import Session, selectinload
 from app.models import Chunk
 from app.schema import ChatbotResponse
 from sqlalchemy import select
+from langchain_core.documents import Document
 
 class ChatBot:
 
-    def __init__(self, llm_model: str, embedder:str, temperature: float):
-        self.llm = init_chat_model(model=llm_model, temperature=temperature)
-        self.embedder = OpenAIEmbeddings(model=embedder)
-        self.prompt = ChatPromptTemplate.from_messages([
+    def __init__(self, llm_model: str, embedder:Embeddings, temperature: float):
+        self.__llm = init_chat_model(model=llm_model, temperature=temperature)
+        self.__embedder = embedder
+        self.__prompt = ChatPromptTemplate.from_messages([
             ("system", """
                 You are a polite and helpful assistant who answers questions based on Victorian renting laws in Australia.
 
@@ -32,10 +33,11 @@ class ChatBot:
             """)
         ])
 
-        self.rag_chain = self.prompt | self.llm | StrOutputParser()
+        self.rag_chain = self.__prompt | self.__llm | StrOutputParser()
+
 
     def ask(self, db: Session, user_query: UserQuery, k: int = 4) -> ChatbotResponse:
-        search_vector = self.embedder.embed_query(user_query.query)
+        search_vector = self.__embedder.embed_query(user_query.query)
         context = ""
 
         stmt = (

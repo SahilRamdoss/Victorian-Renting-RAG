@@ -12,6 +12,8 @@ from datetime import date
 import xml.etree.ElementTree as ET
 from time import sleep
 
+from app.modules.db_worker import DB_Worker
+
 logging.basicConfig(level=logging.INFO)
 log = logging.getLogger("ingestion")
 MELBOURNE = ZoneInfo("Australia/Melbourne")
@@ -22,6 +24,7 @@ RENTING_PREFIX = "https://www.consumer.vic.gov.au/housing/renting"
 NS = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
 HEADERS = {"User-Agent": "VicRentingRAG/0.1 (personal research project)"}
 CRAWL_DELAY = 5
+db_worker = DB_Worker()
 
 def get_rental_pages() -> dict[str, date | None]:
     response = requests.get(SITEMAP_URL, headers=HEADERS, timeout=30)
@@ -38,26 +41,36 @@ def get_rental_pages() -> dict[str, date | None]:
 
     return pages
 
-def populate_tables(html_pages):
-    pass
-
-
 def run_ingestion():
-    renting_page_urls = get_rental_pages()
-    html_pages = []
+    log.info("Ingestion started")
+    sitemap = get_rental_pages()
+    if not sitemap:
+        log.warning("Sitemap returned no renting pages; skipping run")
+        return
 
-    for url in renting_page_urls:
-        response = requests.get(url)
+    stored = db_worker.get_lastmods()
 
-        html = response.content.decode("utf-8")
-        html_pages.append((url, html))
+    to_fetch = []
 
-        # Sleep for 5 seconds based on robots.txt file
+    for url, lastmod in sitemap.items():
+        lastmod = lastmod or date.today()
+        if url not in stored or stored[url] < lastmod:
+            to_fetch.append((url, lastmod))
+
+    log.info("%d of %d pages need updating", len(to_fetch), len(sitemap))
+
+    pages = []
+    for url, lastmod in to_fetch:
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=30)
+            response.raise_for_status()
+            pages.append((url, response.text, lastmod))
+        except requests.RequestException as e:
+            log.warning("Skipping %s: %s", url, e)
         sleep(CRAWL_DELAY)
 
-    populate_tables(html_pages)
-    
-
+    db_worker.sync_documents(pages, sitemap_urls=set(sitemap))
+    log.info("Ingestion finished")
 
 if __name__ == "__main__":
     scheduler = BlockingScheduler(timezone=MELBOURNE)

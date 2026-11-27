@@ -15,7 +15,7 @@ class Ingester:
 
     def __init__(self):
         # Using it as an instance variable rather than a class variable because of concerns over parallel processing
-        self.html_semantic_splitter = HTMLSemanticPreservingSplitter(
+        self.__html_semantic_splitter = HTMLSemanticPreservingSplitter(
             headers_to_split_on=HEADERS_TO_SPLIT_ON,
             max_chunk_size=1500,
             chunk_overlap=0,
@@ -24,17 +24,17 @@ class Ingester:
             preserve_links=False,
         )
 
-    def create_chunks(self,html: str, url:str):
+    def create_chunks(self,html: str, url:str) -> list[Document]:
         # Extract tables separately
         table_docs, soup = self.__extract_table_docs(html, url)
         # Get the page title
         title = soup.find_all("title")[0].get_text().strip()
         # Set the origin url of the html
-        self.html_semantic_splitter._external_metadata = {"title": title, "url": url}
+        self.__html_semantic_splitter._external_metadata = {"title": title, "url": url}
         # Convert all embedded links to normal text
         soup = self.__strip_links(soup)
         # Create the chunks
-        semantic_chunks = self.html_semantic_splitter.split_text(str(soup))
+        semantic_chunks = self.__html_semantic_splitter.split_text(str(soup))
         # Remove noisy chunks
         cleaned_semantic_chunks = self.__clean_chunks(semantic_chunks)
         # Add header hierarchy of each chunk as a prefix to its page_content
